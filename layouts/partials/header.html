@@ -57,15 +57,10 @@
             <i class="ti-search"></i>
           </button>
           <div class="search-wrapper">
-            <form action="{{ `search` | absURL }}" class="h-100">
-              <input
-                class="search-box px-4"
-                id="search-query"
-                name="s"
-                type="search"
-                placeholder="Type & Hit Enter..."
-              />
-            </form>
+            <form role="search" method="get" id="searchform" class="searchform" action="">
+              <input type="text" value="" name="s" id="s" placeholder="Search...">
+              <button type="submit" id="searchsubmit"><i class="fa fa-search"></i></button>
+           </form>
             <button id="searchClose" class="search-close">
               <i class="ti-close text-dark"></i>
             </button>
