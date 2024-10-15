@@ -1,7 +1,9 @@
 ---
-title: People
-date: 2024-10-24  # 可以根據當前日期設置
-type: list
+title: "People"
+draft: false
+description : "this is meta description"
+type: baseof
+---
 
 sections:
   - block: people
