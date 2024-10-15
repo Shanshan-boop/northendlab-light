@@ -3,7 +3,6 @@ title: "People"
 draft: false
 description : "this is meta description"
 type: baseof
----
 
 sections:
   - block: people
