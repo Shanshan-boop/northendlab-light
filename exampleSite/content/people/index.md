@@ -1,7 +1,7 @@
 ---
 title: People
 date: 2024-10-24  # 可以根據當前日期設置
-type: landing
+type: list
 
 sections:
   - block: people
