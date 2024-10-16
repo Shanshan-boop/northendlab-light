@@ -176,3 +176,13 @@ textarea.form-control{
 .page-link:focus{
   box-shadow: none;
 }
+
+.custom-img {
+  max-width: 100%; /* 確保圖片不會超過父容器的寬度 */
+  height: auto;    /* 保持圖片的原始比例 */
+  object-fit: cover; /* 如果圖片大小不一，可以裁剪以保持一致的佈局 */
+}
+
+.card-img-top {
+  max-height: 200px; /* 限制圖片的最大高度 */
+}
