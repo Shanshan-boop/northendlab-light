@@ -4,23 +4,23 @@ tools:
   tool:
   # tool loop in tool category
   - name: Git
-    image: "/images/tools/Git.png"
+    image: "/images/tools/Git.jpg"
     link: https://git-scm.com/
   # tool loop in tool category
   - name: Atom
-    image: "/images/tools/Atom.png"
+    image: "/images/tools/1.jpg"
     link: https://atom.io/
   # tool loop in tool category
   - name: Notepad ++
-    image: "/images/tools/Notepad.png"
+    image: "/images/tools/2.jpg"
     link: https://notepad-plus-plus.org/
   # tool loop in tool category
   - name: Sublime Text
-    image: "/images/tools/sublime.png"
+    image: "/images/tools/3.jpg"
     link: https://www.sublimetext.com/
   # tool loop in tool category
   - name: Visual Studio Code
-    image: "/images/tools/vs-code.png"
+    image: "/images/tools/4.jpg"
     link: https://code.visualstudio.com/
 
 
